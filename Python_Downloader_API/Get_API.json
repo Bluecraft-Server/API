@@ -5,6 +5,6 @@
     "update_url_gh": "https://Bluecraft-Server.github.io/API/Launcher/Get_Package_Latest.json",
     "announcement_url": "https://bc-api.xn--dyv4b972j7ga.com/Launcher/GetAnnouncement",
     "announcement_url_gh": "https://Bluecraft-Server.github.io/API/Launcher/GetAnnouncement",
-    "important_notice_url": "https://bc-api.xn--dyv4b972j7ga.com.dev/Launcher/Get_Important_Notice.json",
+    "important_notice_url": "https://bc-api.xn--dyv4b972j7ga.com/Launcher/Get_Important_Notice.json",
     "important_notice_url_gh": "https://Bluecraft-Server.github.io/API/Launcher/Get_Important_Notice.json"
 }
